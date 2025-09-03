@@ -1,0 +1,53 @@
+📊 Crowdfunding-Analysis (Kickstarter) – Tableau Dashboard
+🔹 Project Overview
+
+This project demonstrates the end-to-end process of analyzing crowdfunding data using Excel for data cleaning and Tableau for visualization & storytelling.
+The dashboard provides insights into funding trends, campaign performance, and donor behavior with a layer-wise navigation system.
+
+🔹 Workflow
+
+1️⃣ Data Cleaning in Excel
+
+Processed large datasets (handled null values, removed duplicates, ensured formatting consistency).
+
+Prepared data for smooth Tableau integration.
+
+2️⃣ 3-Layer Tableau Dashboard
+
+Executive Summary (Layer 1): Key KPIs → Total Funds Raised, Campaign Success Rate, Average Contribution, Donor Growth.
+
+Exploratory View (Layer 2): Drill-down analysis with filters and slicers → categories, timelines, regions.
+
+Trend Analysis & Detailed Insights (Layer 3): Comparative visuals & time-series trends for deep insights.
+
+3️⃣ Interactive Features
+
+Added navigation buttons for smooth movement across layers.
+
+Ensured scalability for large datasets.
+
+🔹 Dashboard Preview
+Executive Summary
+
+Exploratory View
+
+![Exploratory View](Screenshots/Detailed view.png)
+
+Trend Analysis
+
+![Trend Analysis](Screenshots/Trend Analysis.png)
+
+🔹 Live Dashboard
+
+👉 View Interactive Dashboard on Tableau Public
+
+🔹 Tools & Skills Used
+
+Excel → Data Cleaning
+
+Tableau → Data Visualization, Storytelling, Navigation
+
+Data Analysis → Crowdfunding insights from Kickstarter
+
+💡 I’d love to hear your thoughts on this and your feedback will help me refine this further and push my data storytelling skills to the next level. 🚀
+
