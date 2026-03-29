@@ -4,6 +4,7 @@
 
 #I used my slills all best possible at this point to make this project as powerful enough to solve test case problems.
 Let me know any feedback or query realated to this work, feedback might improve efficiency.
+Tableau is useful and effective too for EDA , analysis
 
 
 # 🔹 Live Dashboard:  
